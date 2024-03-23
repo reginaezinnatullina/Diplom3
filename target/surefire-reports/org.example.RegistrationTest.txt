@@ -1,4 +1,34 @@
 -------------------------------------------------------------------------------
 Test set: org.example.RegistrationTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 33.319 s - in org.example.RegistrationTest
+Tests run: 10, Failures: 0, Errors: 10, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in org.example.RegistrationTest
+testCheckGoOnSause(org.example.RegistrationTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+testCheckGoOnSause(org.example.RegistrationTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+testCheckGoOnAccoutPrivatandThrowConstractor(org.example.RegistrationTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+testCheckGoOnAccoutPrivatandThrowConstractor(org.example.RegistrationTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+testCheckGoodRegistration(org.example.RegistrationTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+testCheckGoodRegistration(org.example.RegistrationTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+testCheckGoOnAccoutPrivatandThrowLogotype(org.example.RegistrationTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+testCheckGoOnAccoutPrivatandThrowLogotype(org.example.RegistrationTest)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException
+
+testCheckBadRegistration(org.example.RegistrationTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+testCheckBadRegistration(org.example.RegistrationTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
