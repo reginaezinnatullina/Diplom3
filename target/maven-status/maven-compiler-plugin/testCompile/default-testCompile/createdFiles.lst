@@ -1,0 +1,6 @@
+org\example\HomeLogin.class
+org\example\HomeRegistration.class
+org\example\LoginTest.class
+org\example\BaseTest.class
+org\example\Constractor.class
+org\example\RegistrationTest.class
